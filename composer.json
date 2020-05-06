@@ -1,0 +1,17 @@
+{
+  "name": "tkti/pasuli",
+  "description": "Pandemic Strugges Life The Game",
+  "type": "project",
+  "authors": [
+    {
+      "name": "TKTI",
+      "email": "rifqimukti076@gmail.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "pasuli\\": "src/"
+    }
+  }
+}
